@@ -67,6 +67,10 @@ You can test the API endpoints using Thunder Client, a VS Code extension that pr
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
 
+## Contact
+Feel free to contact 
+G-mail : guravbhargav09@gmail.com
+Linkedin : https://www.linkedin.com/in/bhargav-gurav-380992224/
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
